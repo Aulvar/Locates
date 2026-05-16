@@ -1,1 +1,56 @@
-
+{
+  "ui": {
+    "nav": {
+      "home": "Home",
+      "discover": "Discover",
+      "create": "Create",
+      "profile": "Profile"
+    },
+    "buttons": {
+      "play": "Play",
+      "upload": "Upload",
+      "editprofile": "Edit Profile",
+      "follow": "Follow",
+      "unfollow": "Unfollow"
+    },
+    "profile": {
+      "title": "Profile",
+      "bio": "Bio",
+      "friends": "Friends",
+      "followers": "Followers",
+      "following": "Following",
+      "created": "Created",
+      "badges": "Badges",
+      "inventory": "Inventory",
+      "joined": "Joined",
+      "lastonline": "Last Online"
+    },
+    "banned": {
+      "title": "Banned",
+      "message": "Your account has been banned.",
+      "reason": "Reason",
+      "appeal": "Appeal",
+      "support": "Support",
+      "permanent": "Permanent",
+      "temporary": "Temporary",
+      "expires": "Expires",
+      "details": "Details"
+    }
+  },
+  "errors": {
+    "400": "Bad request",
+    "401": "Unauthorized",
+    "403": "Forbidden",
+    "404": "Not found",
+    "409": "Conflict",
+    "410": "Gone",
+    "422": "Invalid data",
+    "429": "Too many requests",
+    "500": "Server error",
+    "502": "Bad gateway",
+    "503": "Unavailable",
+    "504": "Timeout",
+    "network": "Network error",
+    "unknown": "Unknown error"
+  }
+}
