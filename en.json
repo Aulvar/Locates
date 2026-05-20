@@ -1,56 +1,138 @@
 {
-  "ui": {
-    "nav": {
-      "home": "Home",
-      "discover": "Discover",
-      "create": "Create",
-      "profile": "Profile"
+  "nav": {
+    "home": "Home",
+    "discover": "Discover",
+    "create": "Create",
+    "avatar": "Avatar",
+    "marketplace": "Marketplace",
+    "friends": "Friends",
+    "messages": "Messages",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+
+  "home": {
+    "welcome": "Welcome back",
+    "continue": "Continue Playing",
+    "trending": "Trending Places",
+    "recommended": "Recommended For You",
+    "recent": "Recently Played"
+  },
+
+  "discover": {
+    "title": "Discover",
+    "search": "Search places...",
+    "featured": "Featured",
+    "topRated": "Top Rated",
+    "new": "New",
+    "genres": "Genres",
+    "players": "Active Players"
+  },
+
+  "create": {
+    "title": "Create",
+    "newPlace": "New Place",
+    "myPlaces": "My Places",
+    "drafts": "Drafts",
+    "published": "Published",
+    "analytics": "Analytics",
+    "edit": "Edit",
+    "save": "Save",
+    "publish": "Publish",
+    "unpublish": "Unpublish"
+  },
+
+  "avatar": {
+    "title": "Avatar",
+    "customize": "Customize",
+    "outfits": "Outfits",
+    "inventory": "Inventory",
+    "animations": "Animations",
+    "body": "Body",
+    "accessories": "Accessories",
+    "equip": "Equip",
+    "unequip": "Unequip"
+  },
+
+  "marketplace": {
+    "title": "Marketplace",
+    "search": "Search items...",
+    "featured": "Featured",
+    "categories": "Categories",
+    "limited": "Limited",
+    "free": "Free",
+    "buy": "Buy",
+    "owned": "Owned"
+  },
+
+  "friends": {
+    "title": "Friends",
+    "online": "Online",
+    "all": "All Friends",
+    "add": "Add Friend",
+    "requests": "Requests",
+    "pending": "Pending",
+    "remove": "Remove"
+  },
+
+  "messages": {
+    "title": "Messages",
+    "new": "New Message",
+    "send": "Send",
+    "typing": "Typing...",
+    "noMessages": "No messages yet"
+  },
+
+  "profile": {
+    "title": "Profile",
+    "about": "About",
+    "badges": "Badges",
+    "creations": "Creations",
+    "favorites": "Favorites",
+    "followers": "Followers",
+    "following": "Following",
+    "edit": "Edit Profile"
+  },
+
+  "settings": {
+    "title": "Settings",
+    "account": {
+      "title": "Account",
+      "email": "Email",
+      "password": "Password",
+      "logout": "Sign Out",
+      "delete": "Delete Account"
     },
-    "buttons": {
-      "play": "Play",
-      "upload": "Upload",
-      "editprofile": "Edit Profile",
-      "follow": "Follow",
-      "unfollow": "Unfollow"
-    },
-    "profile": {
-      "title": "Profile",
-      "bio": "Bio",
+    "privacy": {
+      "title": "Privacy",
+      "visibility": "Profile Visibility",
+      "everyone": "Everyone",
       "friends": "Friends",
-      "followers": "Followers",
-      "following": "Following",
-      "created": "Created",
-      "badges": "Badges",
-      "inventory": "Inventory",
-      "joined": "Joined",
-      "lastonline": "Last Online"
+      "private": "Only Me"
     },
-    "banned": {
-      "title": "Banned",
-      "message": "Your account has been banned.",
-      "reason": "Reason",
-      "appeal": "Appeal",
-      "support": "Support",
-      "permanent": "Permanent",
-      "temporary": "Temporary",
-      "expires": "Expires",
-      "details": "Details"
+    "social": {
+      "title": "Social",
+      "requests": "Friend Requests",
+      "blocked": "Blocked Players"
+    },
+    "preferences": {
+      "title": "Preferences",
+      "language": "Language",
+      "appearance": "Appearance"
+    },
+    "security": {
+      "title": "Security",
+      "2fa": "Two-Factor Auth"
     }
   },
-  "errors": {
-    "400": "Bad request",
-    "401": "Unauthorized",
-    "403": "Forbidden",
-    "404": "Not found",
-    "409": "Conflict",
-    "410": "Gone",
-    "422": "Invalid data",
-    "429": "Too many requests",
-    "500": "Server error",
-    "502": "Bad gateway",
-    "503": "Unavailable",
-    "504": "Timeout",
-    "network": "Network error",
-    "unknown": "Unknown error"
+
+  "common": {
+    "play": "Play",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "loading": "Loading...",
+    "saveChanges": "Save Changes"
   }
 }
