@@ -1,17 +1,22 @@
-# Locates
+# Locales
 
-Locates belong to Aulvar.
+Locales belong to Aulvar.
 
-## Supported language
-- English
-- Lolcat
-- German
-- Spanish 
+## Supported Languages
+
+* **English** (Source)
+* **Spanish**
+* **Chinese** (Simplified)
+* **Hindi**
+* **Japanese**
+* **French**
+* **Lolcat**
 
 ## Purpose
-- Find missing or broken translations
-- Identify incorrect or outdated strings
-- Keep UI text consistent across the project
-- Maintain localization quality and coverage
-- Improve user experience and accessibility
-- Better support multiple features and updates across the app
+
+* **Track Coverage:** Find missing or broken translations.
+* **Maintain Accuracy:** Identify incorrect or outdated strings.
+* **UI Consistency:** Keep text uniform across the entire project.
+* **Quality Control:** Maintain high localization quality and standards.
+* **Accessibility:** Improve user experience for global audiences.
+* **Scalability:** Seamlessly support new features and app updates.
