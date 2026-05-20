@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "home": "Hoam",
+    "discover": "Findz",
+    "create": "Maek",
+    "avatar": "Avatarr",
+    "marketplace": "Markitplaec",
+    "friends": "Frendz",
+    "messages": "Msgz",
+    "profile": "Profael",
+    "settings": "Settinz"
+  },
+
+  "home": {
+    "welcome": "Welcum bak",
+    "continue": "Keep Playin",
+    "trending": "Hot Placez",
+    "recommended": "Pickd Fur U",
+    "recent": "Playd Lately"
+  },
+
+  "discover": {
+    "title": "Findz",
+    "search": "Seerzch placez...",
+    "featured": "Shiny Stuf",
+    "topRated": "Top Liekd",
+    "new": "Noo",
+    "genres": "Kinds",
+    "players": "Aktiv Playurz"
+  },
+
+  "create": {
+    "title": "Maek",
+    "newPlace": "Noo Plaec",
+    "myPlaces": "Mai Placez",
+    "drafts": "Draftez",
+    "published": "Publisht",
+    "analytics": "Numbrz",
+    "edit": "Edits",
+    "save": "Saev",
+    "publish": "Publishez",
+    "unpublish": "Unpublishez"
+  },
+
+  "avatar": {
+    "title": "Avatarr",
+    "customize": "Make It Purrty",
+    "outfits": "Clothez",
+    "inventory": "Mah Stuf",
+    "animations": "Moovz",
+    "body": "Bodeh",
+    "accessories": "Ekstra Shiny Bitz",
+    "equip": "Put On",
+    "unequip": "Taek Off"
+  },
+
+  "marketplace": {
+    "title": "Markitplaec",
+    "search": "Seerzch itemz...",
+    "featured": "Shiny Stuf",
+    "categories": "Catagoreez",
+    "limited": "Limitd",
+    "free": "Freebiez",
+    "buy": "Bai",
+    "owned": "Iz Mine"
+  },
+
+  "friends": {
+    "title": "Frendz",
+    "online": "Onlaen",
+    "all": "All Frendz",
+    "add": "Add Frend",
+    "requests": "Askz",
+    "pending": "Waitin",
+    "remove": "Remoov"
+  },
+
+  "messages": {
+    "title": "Msgz",
+    "new": "Noo Msg",
+    "send": "Sendz",
+    "typing": "Typin...",
+    "noMessages": "No msgz yet"
+  },
+
+  "profile": {
+    "title": "Profael",
+    "about": "About Meow",
+    "badges": "Badgez",
+    "creations": "Mai Maekz",
+    "favorites": "Favritz",
+    "followers": "Followrz",
+    "following": "Followin",
+    "edit": "Edit Profael"
+  },
+
+  "settings": {
+    "title": "Settinz",
+    "account": {
+      "title": "Acount",
+      "email": "Emeowl",
+      "password": "Pawsswurd",
+      "logout": "Sign Owt",
+      "delete": "Delete Acount"
+    },
+    "privacy": {
+      "title": "Privaseh",
+      "visibility": "Profael Vizibiliteh",
+      "everyone": "Ebrybodeh",
+      "friends": "Frendz",
+      "private": "Onlee Me"
+    },
+    "social": {
+      "title": "Sohshul",
+      "requests": "Frend Askz",
+      "blocked": "Blockd Playurz"
+    },
+    "preferences": {
+      "title": "Prefrenz",
+      "language": "Langwidge",
+      "appearance": "Lookz"
+    },
+    "security": {
+      "title": "Securiteh",
+      "2fa": "Too-Factr Auth"
+    }
+  },
+
+  "common": {
+    "play": "Playz",
+    "cancel": "Nope",
+    "confirm": "Yez",
+    "back": "Bak",
+    "next": "Nex",
+    "loading": "Loadin...",
+    "saveChanges": "Saev Changz"
+  }
+}
