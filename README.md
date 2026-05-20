@@ -4,6 +4,9 @@ Locates belong to Aulvar.
 
 ## Supported language
 - English
+- Lolcat
+- German
+- Spanish 
 
 ## Purpose
 - Find missing or broken translations
