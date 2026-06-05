@@ -17,7 +17,7 @@ Thank you for contributing to this project.
 If you wish to add **German, French, or any other language**, you have two options:
 
 - Fork the repository and create a new file for the language.
-- Alternatively, clone the repository using Git and work on it locally.
+- Alternatively, put it in discussions
 
 ### Language File Name Examples
 - `de.json` (German)
@@ -27,3 +27,4 @@ Ensure the following:
 - You have copied the `en.json` file to serve as your starting point.
 - You translate only the values.
 - You do not alter any of the keys.
+- it readable for people
