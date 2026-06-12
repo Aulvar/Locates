@@ -2,15 +2,7 @@
 
 Locales belong to Aulvar.
 
-## Supported Languages
 
-* **English** (Source)
-* **Spanish**
-* **Chinese** (Simplified)
-* **Hindi**
-* **Japanese**
-* **French**
-* **Lolcat**
 
 ## Purpose
 
